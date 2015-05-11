@@ -1,0 +1,132 @@
+body {
+	color: #F0F8FF;
+	background-color: #1B1B1B;
+	margin-bottom: 60px;
+}
+
+.header-hero {
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 65px;
+}
+
+.navbar-brand img {
+	height: 30px;
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
+
+.frontpage-content {
+	width: 95%;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.frontpage-content h3 {
+	font-family: 'Varela Round', sans-serif;
+	color: #B9C967;
+	margin-bottom: 5;
+}
+
+.lead {
+	text-align: left;
+}
+
+.post {
+	width: 730px;
+	margin: 25px 0px 30px;
+}
+
+.post h1, .post h2, .post h3, .post h4 {
+	font-family: 'Varela Round', sans-serif;
+	margin-bottom: 0;
+	color: #B9C967;
+	padding: 10px 0px 10px;
+}
+
+.social-buttons {
+	margin: 15px 0px 15px;
+	height: 20px;
+	vertical-align: top;
+}
+
+.fb-like {
+    position:relative;
+    top:-5px;
+}
+
+ul#contact-icons, ul#posts {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul#contact-icons li {
+	margin: 8px 0;
+	display: block;
+}
+
+ul#contact-icons img {
+	margin: 0 10px 0 0px;
+	top: 7px;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.scrolltable tr {
+	width: 100%;
+}
+
+
+.scrolltable table{
+	height:300px; 
+}
+
+.scrolltable tbody{
+  overflow-y: auto;
+  height: 350px;
+  width: 100%;
+  position: absolute;
+}
+
+.footer {
+	font-size: 80%;
+	padding-top: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
+	color: #666699;
+}
+
+pre {
+	color: #F5E8A3;
+	background-color: #333;
+}
+
+code {
+	padding: 2px 4px;
+	font-size: 90%;
+	color: #F5E8A3;
+	white-space: nowrap;
+	background-color: #333;
+	border-radius: 4px;
+}
+
+video {
+	width: 100%    !important;
+	height: auto   !important;
+}

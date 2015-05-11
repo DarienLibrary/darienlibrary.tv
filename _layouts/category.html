@@ -1,0 +1,40 @@
+---
+layout: bootstrap
+---
+
+<div class="header-hero"></div>
+
+<div class="row frontpage-content frontpage-imagebg">
+	<h3>{{ page.title }}</h3>
+
+	<div class="post">
+	  {{ content }}
+	</div>
+
+	<div class="col-md-7">
+		<div class="video-container">
+	  	<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ site.categories.[page.catname].first.videoid }}" frameborder="0" allowfullscreen></iframe>
+	  </div>
+  </div>
+  <div class="col-md-5 scrolltable">
+		<table class="table">
+
+			<tbody>
+
+				{% for post in site.categories.[page.catname] %}
+    			<tr>
+	    			<td><img src="http://img.youtube.com/vi/{{ post.videoid }}/2.jpg" width="100"></td>
+	    			<td><h5><a href="{{ post.url }}">{{ post.title }}</a></h5><p class="meta" style="color: #B9C967;">{{ post.date | date_to_string }}</p></td>
+    			</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+	</div>
+	
+
+	<!--
+		http://www.bootply.com/qdLCAlG9fm (scrollable table)
+	!-->
+
+
+</div>
