@@ -49,6 +49,11 @@ body {
 	padding-bottom: 25px;
 }
 
+.sidepad {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
 .social-buttons {
 	margin: 15px 0px 15px;
 	height: 20px;
