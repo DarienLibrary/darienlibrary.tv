@@ -1,7 +1,7 @@
 ---
 title: Paper Planes
 videoid: NvKS5x50wZ4
-videolink: http://tonks.darienlibrary.org/test/
+videolink: 
 videoformat: MP4
 category: thelibrary
 layout: video
