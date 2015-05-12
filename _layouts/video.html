@@ -9,20 +9,23 @@ layout: bootstrap
     <h2 style="font-family: 'Englebert', sans-serif; margin-bottom: 0;">{{ page.title }}</h2>
     <p class="meta" style="color: #B9C967;">{{ page.date | date_to_string }}</p>
 
-    <div class="post">
+    <div class="padsection col-md-12">
         {{ content }}
     </div>
 
-    <div class="video-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videoid }}" frameborder="0" allowfullscreen></iframe>
-    </div>
+    <div class="padsection col-md-7">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.videoid }}" frameborder="0" allowfullscreen></iframe>
+        </div>
 
-    {% if page.videolink != nil %}
-    <p>
-        <br />
-        Download this video: ( <a href="{{ page.videolink }}">{{ page.videoformat }}</a> )
-    </p>
-    {% endif %}
+        {% if page.videolink != nil %}
+            <p>
+                <br />
+                Download this video: ( <a href="{{ page.videolink }}">{{ page.videoformat }}</a> )
+            </p>
+        {% endif %}
+    
+    </div>
 
     <div class="social-buttons">
         <div class="fb-like" data-href="http://darienlibrary.tv{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>

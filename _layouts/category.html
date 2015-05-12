@@ -7,16 +7,17 @@ layout: bootstrap
 <div class="row frontpage-content frontpage-imagebg">
 	<h3>{{ page.title }}</h3>
 
-	<div class="post">
-	  {{ content }}
+	<div class="padsection col-md-12">
+	  <p>{{ content }}</p>
 	</div>
 
-	<div class="col-md-7">
+	<div class="padsection col-md-7">
 		<div class="video-container">
 	  	<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ site.categories.[page.catname].first.videoid }}" frameborder="0" allowfullscreen></iframe>
 	  </div>
   </div>
-  <div class="col-md-5 scrolltable">
+
+  <div class="padsection col-md-5 scrolltable">
 		<table class="table">
 
 			<tbody>
@@ -33,11 +34,5 @@ layout: bootstrap
 			</tbody>
 		</table>
 	</div>
-	
-
-	<!--
-		http://www.bootply.com/qdLCAlG9fm (scrollable table)
-	!-->
-
 
 </div>
