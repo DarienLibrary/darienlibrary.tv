@@ -7,14 +7,14 @@
   <head>
 
     {% if page.title != nil %}
-      <title>{{ page.title }}</title>
-      <meta property="og:title" content="{{ page.title }}" />
+    <title>{{ page.title }}</title>
+    <meta property="og:title" content="{{ page.title }}" />
     {% else %}
-      <title>darienlibrary.tv</title>
+    <title>darienlibrary.tv</title>
     {% endif %}
-    {% if page.videocover != nil %}
-      <meta property="og:image" content="{{ page.videocover }}"/>
-      <meta property="og:type" content="video.other" />
+    {% if page.videoid != nil %}
+    <meta property="og:image" content="http://img.youtube.com/vi/{{ page.videoid }}/0.jpg"/>
+    <meta property="og:type" content="video.other" />
     {% endif %}
     <meta property="og:url" content="http://darienlibrary.tv{{ page.url }}" />
     <meta property="og:site_name" content="Darien Library TV" />
