@@ -2,7 +2,7 @@
 title: Meet the Author: Maggie Shipstead
 videoid: 918GG2fzQhs
 videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20120716_maggie_shipstead.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes

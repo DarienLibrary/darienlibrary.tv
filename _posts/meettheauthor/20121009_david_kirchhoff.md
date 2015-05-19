@@ -2,7 +2,7 @@
 title: Meet the Author: David Kirchhoff
 videoid: GeQow2OW7nQ
 videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20121009_david_kirchhoff.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes

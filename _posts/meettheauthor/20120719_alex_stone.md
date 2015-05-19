@@ -2,7 +2,7 @@
 title: Meet the Author: Alex Stone
 videoid: vpaG00qEcxw
 videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20120719_alex_stone.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes

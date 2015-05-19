@@ -2,7 +2,7 @@
 title: Meet the Author: Charles C. Mann
 videoid: h1GxEqRY8qI
 videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20121002_charles_mann.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes

@@ -2,7 +2,7 @@
 title: Meet the Author: Monica Wood
 videoid: PQaaDzlSyNc
 videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20120906_monica_wood.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes
