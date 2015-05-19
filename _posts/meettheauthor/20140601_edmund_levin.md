@@ -1,8 +1,8 @@
 ---
 title: Meet the Author: Edmund Levin
 videoid: rCa3LKsz2wo
-videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140601_edmund_levin.mp4
-videoformat: MP4
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140601_edmund_levin.mov
+videoformat: MOV
 category: meettheauthor
 layout: video
 published: yes
