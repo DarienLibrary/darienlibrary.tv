@@ -1,8 +1,8 @@
 ---
 title: Meet the Author: Jami Attenberg, Rosie Schaap, and Meg Wolitzer
-videoid: b12TIvS5k2U
+videoid: hr7LU6cRV2k
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130702_attenberg_schaap_wolitzer.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes
