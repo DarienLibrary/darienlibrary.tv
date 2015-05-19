@@ -2,7 +2,7 @@
 title: Meet the Author: Eloisa James
 videoid: 9wAiKCfBIh8
 videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20120503_eloisa_james.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes
