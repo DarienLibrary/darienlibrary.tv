@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: David Kirchhoff
+title: "Meet the Author: David Kirchhoff"
 videoid: GeQow2OW7nQ
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20121009_david_kirchhoff.m4v
 videoformat: M4V

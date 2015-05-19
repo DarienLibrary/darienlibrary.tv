@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Pete Hamill
+title: "Meet the Author: Pete Hamill"
 videoid: 11Yx-T2o3jw
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20110714_pete_hamill.m4v
 videoformat: M4V

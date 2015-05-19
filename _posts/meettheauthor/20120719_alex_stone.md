@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Alex Stone
+title: "Meet the Author: Alex Stone"
 videoid: vpaG00qEcxw
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120719_alex_stone.m4v
 videoformat: M4V

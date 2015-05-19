@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Susan Cain
+title: "Meet the Author: Susan Cain"
 videoid: LIlAxAcZLtI
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120419_susan_cain.m4v
 videoformat: M4V

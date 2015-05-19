@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Will Schwalbe
+title: "Meet the Author: Will Schwalbe"
 videoid: b12TIvS5k2U
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130605_will_schwalbe.m4v
 videoformat: M4V

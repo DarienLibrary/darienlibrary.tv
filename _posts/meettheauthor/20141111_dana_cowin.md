@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Dana Cowin
+title: "Meet the Author: Dana Cowin"
 videoid: THE9DLVUJuA
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20141111_dana_cowin.mov
 videoformat: MOV

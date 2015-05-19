@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Reeve Lindbergh
+title: "Meet the Author: Reeve Lindbergh"
 videoid: eVNdu7sztm4
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120517_reeve_lindbergh.m4v
 videoformat: M4V

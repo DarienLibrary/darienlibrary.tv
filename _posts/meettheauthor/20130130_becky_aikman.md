@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Becky Aikman
+title: "Meet the Author: Becky Aikman"
 videoid: j1K48f7jxTs
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130130_becky_aikman.m4v
 videoformat: M4V

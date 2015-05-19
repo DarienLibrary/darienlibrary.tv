@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Michael Paterniti
+title: "Meet the Author: Michael Paterniti"
 videoid: 1rXar45aGKc
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130707_michael_paterniti.m4v
 videoformat: M4V

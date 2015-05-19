@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Edmund Levin
+title: "Meet the Author: Edmund Levin"
 videoid: rCa3LKsz2wo
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140601_edmund_levin.mov
 videoformat: MOV

@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Adam Gidwitz
+title: "Meet the Author: Adam Gidwitz"
 videoid: SOFKn1jrgGs
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20121119_adam_gidwitz.m4v
 videoformat: M4V

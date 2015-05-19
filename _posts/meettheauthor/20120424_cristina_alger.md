@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Cristina Alger
+title: "Meet the Author: Cristina Alger"
 videoid: 5_BGia1cTcA
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120424_cristina_alger.m4v
 videoformat: M4V

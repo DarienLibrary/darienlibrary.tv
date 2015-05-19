@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Marilyn Johnson
+title: "Meet the Author: Marilyn Johnson"
 videoid: z2TQlHET6MY
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20141113_marilyn_johnson.mov
 videoformat: MOV

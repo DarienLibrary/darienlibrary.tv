@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Nathaniel Philbrick
+title: "Meet the Author: Nathaniel Philbrick"
 videoid: yGhicjvoYSw
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140510_nathaniel_philbrick.mov
 videoformat: MOV

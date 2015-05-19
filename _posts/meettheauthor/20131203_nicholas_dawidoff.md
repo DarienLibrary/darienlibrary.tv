@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Nicholas Dawidoff
+title: "Meet the Author: Nicholas Dawidoff"
 videoid: 8RuutwQyvKs
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20131203_nicholas_dawidoff.mov
 videoformat: MOV

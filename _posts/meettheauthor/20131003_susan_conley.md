@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Susan Conley
+title: "Meet the Author: Susan Conley"
 videoid: Rx7N8CsOdx0
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20131003_susan_conley.m4v
 videoformat: M4V

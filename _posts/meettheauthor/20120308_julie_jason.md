@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Julie Jason
+title: "Meet the Author: Julie Jason"
 videoid: cEDEOll5ZXY
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120308_julie_jason.m4v
 videoformat: M4V

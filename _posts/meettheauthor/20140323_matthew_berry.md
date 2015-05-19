@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Matthew Berry
+title: "Meet the Author: Matthew Berry"
 videoid: jilliilOyRU
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140323_matthew_berry.mov
 videoformat: MOV

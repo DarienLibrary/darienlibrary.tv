@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Roger Rosenblatt in Conversation with Pete Hamill
+title: "Meet the Author: Roger Rosenblatt in Conversation with Pete Hamill"
 videoid: OizgFb9wDKU
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140302_roger_rosenblatt_pete_hamill.mov
 videoformat: MOV

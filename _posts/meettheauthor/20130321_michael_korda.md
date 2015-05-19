@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Michael Korda
+title: "Meet the Author: Michael Korda"
 videoid: flauPvKeBks
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130321_michael_korda.m4v
 videoformat: M4V

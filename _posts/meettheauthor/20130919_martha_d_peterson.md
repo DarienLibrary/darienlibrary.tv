@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Martha D. Peterson
+title: "Meet the Author: Martha D. Peterson"
 videoid: vSV4Zk0a__Q
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130919_martha_d_peterson.m4v
 videoformat: M4V

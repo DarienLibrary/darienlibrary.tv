@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Jane Ziegelman
+title: "Meet the Author: Jane Ziegelman"
 videoid: vlDJfsuW4pM
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120405_jane_ziegelman.m4v
 videoformat: M4V

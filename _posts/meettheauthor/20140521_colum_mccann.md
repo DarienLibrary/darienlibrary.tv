@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Colum McCann
+title: "Meet the Author: Colum McCann"
 videoid: _xIPs-mhrO8
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140521_colum_mccann.mov
 videoformat: MOV

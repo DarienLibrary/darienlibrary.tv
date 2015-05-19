@@ -1,5 +1,5 @@
 ---
-title: Meet the Author: Charles C. Mann
+title: "Meet the Author: Charles C. Mann"
 videoid: h1GxEqRY8qI
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20121002_charles_mann.m4v
 videoformat: M4V
