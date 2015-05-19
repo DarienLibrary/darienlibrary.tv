@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Marcia Clark in Conversation with John Valeri
 videoid: -UJ6oXYl0-s
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20140708_marcia_clark.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140708_marcia_clark.m4v
 videoformat: M4V
 category: meettheauthor
 layout: video

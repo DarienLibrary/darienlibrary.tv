@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Marilyn Johnson
 videoid: z2TQlHET6MY
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20141113_marilyn_johnson.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20141113_marilyn_johnson.mov
 videoformat: MOV
 category: meettheauthor
 layout: video

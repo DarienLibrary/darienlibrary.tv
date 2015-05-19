@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Beatriz Williams
 videoid: lXLeUmRVBWY
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20140506_beatriz_williams.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140506_beatriz_williams.mov
 videoformat: MOV
 category: meettheauthor
 layout: video

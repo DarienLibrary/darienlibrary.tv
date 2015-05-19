@@ -1,8 +1,8 @@
 ---
 title: Meet the Author: Richard Ford
 videoid: iK_9FRzmUl4
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20130210_richard_ford.m4v
-videoformat: MP4
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130210_richard_ford.m4v
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes

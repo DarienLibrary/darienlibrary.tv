@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Nina Sankovitch
 videoid: YBCEqjf2Rgc
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20110927_nina_sankovitch.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20110927_nina_sankovitch.m4v
 videoformat: M4V
 category: meettheauthor
 layout: video

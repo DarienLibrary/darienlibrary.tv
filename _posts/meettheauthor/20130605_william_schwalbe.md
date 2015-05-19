@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Will Schwalbe
 videoid: b12TIvS5k2U
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20130605_william_schwalbe.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130605_william_schwalbe.m4v
 videoformat: MP4
 category: meettheauthor
 layout: video

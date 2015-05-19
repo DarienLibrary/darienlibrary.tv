@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Adam Gidwitz
 videoid: SOFKn1jrgGs
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20121119_adam_gidwitz.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20121119_adam_gidwitz.m4v
 videoformat: M4V
 category: meettheauthor
 layout: video

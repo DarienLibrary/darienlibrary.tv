@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Pete Hamill
 videoid: 11Yx-T2o3jw
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20110714_pete_hamill.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20110714_pete_hamill.m4v
 videoformat: M4V
 category: meettheauthor
 layout: video

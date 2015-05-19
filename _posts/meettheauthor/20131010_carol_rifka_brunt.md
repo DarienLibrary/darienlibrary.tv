@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Carol Rifka Brunt
 videoid: hbxt-v-vOUk
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20131010_carol_rifka_brunt.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20131010_carol_rifka_brunt.m4v
 videoformat: MP4
 category: meettheauthor
 layout: video

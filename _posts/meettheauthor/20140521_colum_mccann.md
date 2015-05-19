@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Colum McCann
 videoid: _xIPs-mhrO8
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20140521_colum_mccann.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140521_colum_mccann.mov
 videoformat: MOV
 category: meettheauthor
 layout: video

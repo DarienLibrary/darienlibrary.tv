@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Wally Lamb
 videoid: notDMdS1_NU
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20131208_wally_lamb.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20131208_wally_lamb.m4v
 videoformat: MP4
 category: meettheauthor
 layout: video

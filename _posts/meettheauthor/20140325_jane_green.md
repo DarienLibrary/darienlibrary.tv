@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Jane Green
 videoid: Z3fYdV-N4KI
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20140325_jane_green.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20140325_jane_green.mov
 videoformat: MOV
 category: meettheauthor
 layout: video

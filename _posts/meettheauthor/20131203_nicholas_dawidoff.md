@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Nicholas Dawidoff
 videoid: 8RuutwQyvKs
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20131203_nicholas_dawidoff.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20131203_nicholas_dawidoff.m4v
 videoformat: MP4
 category: meettheauthor
 layout: video

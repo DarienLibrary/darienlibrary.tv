@@ -1,8 +1,8 @@
 ---
 title: Meet the Author: Michael J. Mauboussin
 videoid: GUaax-tuNFw
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20121206_michael_j_mauboussin.m4v
-videoformat: MP4
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20121206_michael_j_mauboussin.m4v
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes

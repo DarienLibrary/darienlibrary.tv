@@ -1,7 +1,7 @@
 ---
 title: Meet the Author: Simon von Booy
 videoid: __m4ck2NKBU
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20110719_simon_von_booy.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20110719_simon_von_booy.m4v
 videoformat: M4V
 category: meettheauthor
 layout: video

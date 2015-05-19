@@ -1,6 +1,6 @@
 ---
 title: Meet the Author: Kris D'Agostino
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20120321_kris_dagostino.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120321_kris_dagostino.mov
 videoformat: MOV
 category: meettheauthor
 layout: video

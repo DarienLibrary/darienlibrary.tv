@@ -1,8 +1,8 @@
 ---
 title: Meet the Author: Deb Perelman
 videoid: menf2URN_M0
-videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20121129_deb_perelman.m4v
-videoformat: MP4
+videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20121129_deb_perelman.m4v
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes
