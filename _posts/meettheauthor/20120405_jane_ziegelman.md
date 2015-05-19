@@ -2,7 +2,7 @@
 title: Meet the Author: Jane Ziegelman
 videoid: vlDJfsuW4pM
 videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20120405_jane_ziegelman.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes
