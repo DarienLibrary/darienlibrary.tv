@@ -2,7 +2,7 @@
 title: Meet the Author: Michael Hainey
 videoid: JgPV3C8d2L4
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130507_michael_hainey.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes

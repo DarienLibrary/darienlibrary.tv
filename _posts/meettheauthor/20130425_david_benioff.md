@@ -2,7 +2,7 @@
 title: Meet the Author: David Benioff
 videoid: -5gf2OGZdxc
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130425_david_benioff.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes
