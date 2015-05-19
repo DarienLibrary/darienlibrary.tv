@@ -2,7 +2,7 @@
 title: Meet the Author: Julie Jason
 videoid: cEDEOll5ZXY
 videolink: http://tonks.darienlibrary.org/1/archives/video/meetheauthor/20120308_julie_jason.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes
