@@ -2,7 +2,7 @@
 title: Meet the Author: Christina Pugh
 videoid: wY6pybS1PYM
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20130529_christina_pugh.m4v
-videoformat: MP4
+videoformat: M4V
 category: meettheauthor
 layout: video
 published: yes
