@@ -1,8 +1,8 @@
 ---
 title: Paper Planes
-videoid: NvKS5x50wZ4
-videolink: 
-videoformat: MP4
+videoid: iHqdaMBKHKw
+videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e03-tl-paper_airplane_contest.mov
+videoformat: MOV
 category: thelibrary
 layout: video
 published: yes

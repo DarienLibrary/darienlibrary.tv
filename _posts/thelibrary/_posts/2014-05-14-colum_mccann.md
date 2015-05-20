@@ -1,8 +1,8 @@
 ---
 title: Colum McCann at Darien Library
-videoid: N15SIf_ZYfY
-videolink: 
-videoformat: MP4
+videoid: GE5dEFIy3g
+videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e04-tl-colum_mccann.mov
+videoformat: MOV
 category: thelibrary
 layout: video
 published: yes
