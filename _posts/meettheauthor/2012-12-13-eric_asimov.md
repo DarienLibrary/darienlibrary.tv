@@ -1,5 +1,6 @@
 ---
 title: "Meet the Author: Eric Asimov"
+videoid: QXkdv8ZRRh0
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20121213_eric_asimov.m4v
 videoformat: M4V
 category: meettheauthor

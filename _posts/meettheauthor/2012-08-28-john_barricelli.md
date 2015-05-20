@@ -1,5 +1,6 @@
 ---
 title: "Meet the Author: John Barricelli"
+videoid: 3cNI1m-3ORk
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120828_john_barricelli.m4v
 videoformat: M4V
 category: meettheauthor

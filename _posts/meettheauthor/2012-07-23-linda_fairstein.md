@@ -1,5 +1,6 @@
 ---
 title: "Meet the Author: Linda Fairstein"
+videoid: yujUc0vfrL4
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20120723_linda_fairstein.m4v
 videoformat: M4V
 category: meettheauthor
