@@ -97,6 +97,11 @@ ul#contact-icons img {
     height: 100%;
 }
 
+.jumbotron {
+	background-color: #DD5757;
+	margin-top: 100px;
+}
+
 .scrolltable tr {
 	width: 100%;
 }
