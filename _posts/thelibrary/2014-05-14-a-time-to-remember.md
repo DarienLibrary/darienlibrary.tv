@@ -1,5 +1,5 @@
 ---
-title: A Time to Remember
+title: "A Time to Remember"
 videoid: GfAGKdTxX7w
 videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e01-tl-a_look_back.mov
 videoformat: MOV

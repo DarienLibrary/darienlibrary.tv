@@ -1,5 +1,5 @@
 ---
-title: Using CardStar at the Self Checkouts
+title: "Using CardStar at the Self Checkouts"
 videoid: fJ2ceW3nc9c
 videolink: http://tonks.darienlibrary.org/1/archives/video/dltechcast/20120821_cardstar_selfchecks.mp4
 videoformat: MP4

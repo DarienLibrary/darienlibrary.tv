@@ -1,5 +1,5 @@
 ---
-title: Understanding Your Tween's Online World
+title: "Understanding Your Tween's Online World"
 videoid: K6qoBbrYnVM
 videolink: http://tonks.darienlibrary.org/1/archives/video/childrenslibrary/20140121_tween_online_sml.m4v
 videoformat: M4V

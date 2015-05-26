@@ -1,5 +1,5 @@
 ---
-title: Paper Planes
+title: "Paper Planes"
 videoid: iHqdaMBKHKw
 videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e03-tl-paper_airplane_contest.mov
 videoformat: MOV

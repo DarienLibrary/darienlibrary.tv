@@ -1,5 +1,5 @@
 ---
-title: College Interviews 101
+title: "College Interviews 101"
 videoid: 5cgje0FmX4s
 videolink: http://tonks.darienlibrary.org/1/archives/video/teens/20140227_college_interviews_101.m4v
 videoformat: M4V

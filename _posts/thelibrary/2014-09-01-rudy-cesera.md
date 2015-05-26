@@ -1,5 +1,5 @@
 ---
-title: Rudy Cesera
+title: "Rudy Cesera"
 videoid: SnhGHUpq2TY
 videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e05-tl-rudy.mov
 videoformat: MOV
