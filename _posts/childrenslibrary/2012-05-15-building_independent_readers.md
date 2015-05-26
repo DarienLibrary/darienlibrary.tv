@@ -1,7 +1,7 @@
 ---
 title: Building Independent Readers at Darien Library
 videoid: gpNWvFlqlBY
-videolink: http://tonks.darienlibrary.org/1/archives/video/childrenslibrary/20120515_building_indepedent_readers.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/childrenslibrary/20120515_building_independent_readers.m4v
 videoformat: M4V
 category: childrenslibrary
 layout: video
