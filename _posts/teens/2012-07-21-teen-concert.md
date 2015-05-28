@@ -1,5 +1,5 @@
 ---
-title: Fictional Band at Darien Library Starring Dilly Dilly
+title: "Fictional Band at Darien Library Starring Dilly Dilly"
 videoid: MqFlwztvbU8
 videolink: http://tonks.darienlibrary.org/1/archives/video/replay/20120721_teen_concert.m4v
 videoformat: M4V
