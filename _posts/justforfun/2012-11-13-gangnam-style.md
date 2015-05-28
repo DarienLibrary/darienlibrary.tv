@@ -2,7 +2,7 @@
 title: "Darien Library Does Gangnam Style"
 videoid: Dv6c6SpbZJQ
 videolink: http://tonks.darienlibrary.org/1/archives/video/justforfun/20121113_gangnam_style.mp4
-videoformat: M4P4
+videoformat: MP4
 category: justforfun
 layout: video
 published: yes
