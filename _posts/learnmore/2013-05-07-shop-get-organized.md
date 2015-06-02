@@ -1,7 +1,7 @@
 ---
 title: "Shop and Get Organized"
 videoid: IUUCkd61Z3Q
-videolink: http://tonks.darienlibrary.org/1/archives/video/20130507_shop_get_organized.m4v
+videolink: http://tonks.darienlibrary.org/1/archives/video/learnmore/20130507_shop_get_organized.m4v
 videoformat: M4V
 category: learnmore
 layout: video
