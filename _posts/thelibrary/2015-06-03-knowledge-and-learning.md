@@ -8,4 +8,4 @@ layout: video
 published: yes
 ---
 
-\"We’ve got answers\" would be a better title for this department. From asking the time of the day to getting the latest information on stem cell research the librarians who run this department are walking encyclopedia for anything and everything.
+"We’ve got answers" would be a better title for this department. From asking the time of the day to getting the latest information on stem cell research the librarians who run this department are walking encyclopedia for anything and everything.
