@@ -3,7 +3,7 @@ title: "What Are Colleges Looking for?"
 videoid: kmG_q1DdFWg
 videolink: http://tonks.darienlibrary.org/1/archives/video/teens/20140225_what_colleges_look_for.mov
 videoformat: MOV
-category: teens
+category: fortheteens
 layout: video
 published: yes
 ---

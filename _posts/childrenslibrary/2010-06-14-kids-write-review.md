@@ -1,5 +1,5 @@
 ---
-title: DL Kids: How to write a review
+title: "DL Kids: How to write a review"
 videoid: h67YNO2F8OY
 videolink: http://tonks.darienlibrary.org/1/archives/video/childrenslibrary/20100614_kids_write_review.mp4
 videoformat: M4V

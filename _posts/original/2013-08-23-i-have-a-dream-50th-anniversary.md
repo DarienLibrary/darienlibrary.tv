@@ -3,7 +3,7 @@ title: "I HAVE A DREAM 50th anniversary"
 videoid: YYrkyHeUlsE
 videolink: http://tonks.darienlibrary.org/1/archives/video/originalpresentations/20130823_i_have_a_dream_50th_anniversary.mov
 videoformat: MOV
-category: originalpresentations
+category: original
 layout: video
 published: yes
 ---

@@ -3,7 +3,7 @@ title: "College Admissions 101: The Admissions Process"
 videoid: reNVf8g2EAA
 videolink: http://tonks.darienlibrary.org/1/archives/video/teens/20100402_college_admissions_101.mp4
 videoformat: MP4
-category: teens
+category: fortheteens
 layout: video
 published: yes
 ---

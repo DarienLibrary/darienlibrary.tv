@@ -3,7 +3,7 @@ title: "Advice for Student Athletes at Darien Library"
 videoid: 2BIaTwwfoEM
 videolink: http://tonks.darienlibrary.org/1/archives/video/teens/20100422_advice_student_athletes.mp4
 videoformat: MP4
-category: teens
+category: fortheteens
 layout: video
 published: yes
 ---

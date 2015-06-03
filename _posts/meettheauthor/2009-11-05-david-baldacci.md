@@ -1,6 +1,6 @@
 ---
 title: "Meet the Author: David Baldacci at Darien Library"
-videoid: Meet the Author: David Baldacci at Darien Library 
+videoid: 7pw6OlXRyCk
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20091105_david_baldacci.mp4
 videoformat: MP4
 category: meettheauthor

@@ -3,7 +3,7 @@ title: "E.J.C.: So You Think You Can Do Something? 2009"
 videoid: P2lJb4snKDU
 videolink: http://tonks.darienlibrary.org/1/archives/video/teens/20091205_ejc_so_you_think.mp4
 videoformat: MP4
-category: teens
+category: fortheteens
 layout: video
 published: yes
 ---
