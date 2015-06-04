@@ -14,3 +14,6 @@ author :
   email : john@blyberg.net
   github : jblyberg
   twitter : jblyberg
+
+gems:
+  - jekyll-sitemap
