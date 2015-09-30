@@ -1,6 +1,6 @@
 ---
 title: "What is Art?"
-videoid: p0y8kY0W4Rk
+videoid: YGgbMG5_uUA
 videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e15-tl-marianne_eggler.mov
 videoformat: MOV
 category: thelibrary
