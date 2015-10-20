@@ -1,5 +1,5 @@
 ---
-title: "The Children's Librarians Part 1"
+title: "The Children's Librarians"
 videoid: F2ECPSLBLZ4
 videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e17-tl-the_childrens_librarians.mov
 videoformat: MOV
