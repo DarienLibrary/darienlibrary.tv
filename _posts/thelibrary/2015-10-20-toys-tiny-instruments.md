@@ -1,7 +1,7 @@
 ---
 title: "Toys and Tiny Instruments"
 videoid: D_l8ZaG4EW8
-videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e17-tl-the_childrens_librarians.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e18-tl-toys_and_tiny_instrument.mov
 videoformat: MOV
 category: thelibrary
 layout: video
