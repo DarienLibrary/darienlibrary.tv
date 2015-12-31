@@ -1,7 +1,7 @@
 ---
 title: "It's Never Too Early to Start Saving for College"
 videoid: BuO164M-iSw
-videolink: http://tonks.darienlibrary.org/1/archives/video/teens/20121023_early_college_saving.mp4
+videolink: http://tonks.darienlibrary.org/1/archives/video/teens/20121023_early_college_savings.mp4
 videoformat: MP4
 category: fortheteens
 layout: video
