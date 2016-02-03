@@ -1,5 +1,5 @@
 ---
-title: "Vietnam, the Long War: Dien Bien Phu: French Defeat, American Albatross "
+title: "Vietnam, the Long War: Dien Bien Phu: French Defeat, American Albatross"
 videoid: EnwH0iwFvzY
 videolink: http://tonks.darienlibrary.org/1/archives/video/learnmore/20160125_vietnam_dien_bien_phu.mov
 videoformat: MOV
