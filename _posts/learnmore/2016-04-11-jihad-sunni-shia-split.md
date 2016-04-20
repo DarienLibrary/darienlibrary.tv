@@ -1,6 +1,6 @@
 ---
 title: "Jihad! The Sunni-Shia Split"
-videoid: YpAp4ymoGoc&
+videoid: YpAp4ymoGoc
 videolink: http://tonks.darienlibrary.org/1/archives/video/learnmore/20160411_jihad_sunni_shia_split.mov
 videoformat: MOV
 category: learnmore
