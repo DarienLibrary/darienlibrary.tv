@@ -1,6 +1,6 @@
 ---
 title: "Ladies Night Out: Meet the Author Jennifer Close"
-videoid: S0lfGT3zbko
+videoid: rhUvlLVmzvA
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20160726_jennifer_close.mov
 videoformat: MOV
 category: meettheauthor
