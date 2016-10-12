@@ -1,7 +1,7 @@
 ---
 title: "A Day in the Life"
 videoid: -70jYStJ24M
-videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e11-tl-a_day_in_the_life.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e07-tl-a_day_in_the_life.mov
 videoformat: MOV
 category: thelibrary
 layout: video

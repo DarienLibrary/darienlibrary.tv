@@ -1,7 +1,7 @@
 ---
 title: "Knowledge & Learning"
 videoid: OZgWMtlyA-k
-videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e07-tl-knowledge_and_learning.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e05-tl-knowledge_and_learning.mov
 videoformat: MOV
 category: thelibrary
 layout: video

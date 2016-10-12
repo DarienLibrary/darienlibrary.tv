@@ -1,7 +1,7 @@
 ---
 title: "Readers' Advisory Event"
 videoid: wLU9QKH88Vw
-videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e09-tl-readers_advisory_event.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e06-tl-readers_advisory_event.mov
 videoformat: MOV
 category: thelibrary
 layout: video

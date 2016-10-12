@@ -1,7 +1,7 @@
 ---
 title: "The Fellowship"
 videoid: weVV5o2XnN0
-videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e13-tl-the_fellowship.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/thelibraryseries/s01e08-tl-the_fellowship.mov
 videoformat: MOV
 category: thelibrary
 layout: video
