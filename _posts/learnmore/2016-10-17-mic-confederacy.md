@@ -1,7 +1,7 @@
 ---
-title: "Military Industrial Complex: Rudiments of the Corporate State"
+title: "Military Industrial Complex: The Confederacy"
 videoid: 5xrxlFclg-g
-videolink: http://tonks.darienlibrary.org/1/archives/video/learnmore/20161017_military_complex.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/learnmore/20161017_confederacy.mov
 videoformat: MOV
 category: learnmore
 layout: video
