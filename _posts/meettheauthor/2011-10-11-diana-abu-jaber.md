@@ -1,6 +1,6 @@
 ---
 title: "Meet the Author: Diana Abu-Jaber"
-videoid: https://youtu.be/rhthhBsmcBo
+videoid: rhthhBsmcBo
 videolink: http://tonks.darienlibrary.org/1/archives/video/meettheauthor/20111011_diana_abu_jaber.m4v
 videoformat: M4V
 category: meettheauthor
