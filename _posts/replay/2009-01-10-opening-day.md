@@ -1,6 +1,6 @@
 ---
-title: "New Darien Library- Opening Day "
-videoid: PBng-v_ztx0
+title: "New Darien Library: Opening Day"
+videoid: -r2Zxv3tjwc
 videolink: http://tonks.darienlibrary.org/1/archives/video/replay/20090110_opening_day.mp4
 videoformat: MP4
 category: replay
