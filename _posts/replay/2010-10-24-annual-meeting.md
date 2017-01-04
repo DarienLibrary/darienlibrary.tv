@@ -1,8 +1,8 @@
 ---
 title: "The Annual Meeting of the Friends of Darien Library 2010"
 videoid: 4zlqVXniabM
-videolink: http://tonks.darienlibrary.org/1/archives/video/replay/20101024_annual_meeting.mp4
-videoformat: MP4
+videolink: http://tonks.darienlibrary.org/1/archives/video/replay/20101024_annual_meeting.mov
+videoformat: MOV
 category: replay
 layout: video
 published: yes
