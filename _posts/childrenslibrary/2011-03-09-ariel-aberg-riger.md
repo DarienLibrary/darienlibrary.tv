@@ -1,8 +1,8 @@
 ---
 title: "Multi-Media Narratives & Interactive Fiction with Ariel Aberg-Riger"
 videoid: DxxKb6jRDMk
-videolink: http://tonks.darienlibrary.org/1/archives/video/childrenslibrary/20110309_ariel_aberg_riger.m4v
-videoformat: M4V
+videolink: http://tonks.darienlibrary.org/1/archives/video/childrenslibrary/20110309_ariel_aberg_riger.mov
+videoformat: MOV
 category: childrenslibrary
 layout: video
 published: yes
