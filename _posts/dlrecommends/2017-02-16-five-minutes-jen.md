@@ -8,6 +8,6 @@ layout: video
 published: yes
 ---
 
-Down City by Leah Carroll
-A Piece of the World by Christina Baker Kline
-Saints for All Occasions by J. Courtney Sullivan
+* Down City by Leah Carroll
+* A Piece of the World by Christina Baker Kline
+* Saints for All Occasions by J. Courtney Sullivan
