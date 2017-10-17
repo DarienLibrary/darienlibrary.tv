@@ -1,7 +1,7 @@
 ---
 title: "Women in American History: Susan B. Anthony"
 videoid: ICjSLgwWnJ8
-videolink: http://tonks.darienlibrary.org/1/archives/video/learnmore/201709225_american_women_susan_b_anthony.mp4
+videolink: http://tonks.darienlibrary.org/1/archives/video/learnmore/20170925_american_women_susan_b_anthony.mp4
 videoformat: MP4
 category: learnmore
 layout: video
