@@ -1,7 +1,7 @@
 ---
 title: "Understanding Anxiety in Your Child"
 videoid: QgSIij_F7-w
-videolink: http://tonks.darienlibrary.org/1/archives/video/learnmore/20180925_understanding_child_anxiety.mov
+videolink: http://tonks.darienlibrary.org/1/archives/video/childrenslibrary/20180925_understanding_child_anxiety.mov
 videoformat: MOV
 category: learnmore
 layout: video
