@@ -8,7 +8,7 @@ layout: video
 published: yes
 ---
 
-On Monday, October 21, 2018, Mark Albertson kicked off the first lecture in his new series. 
+On Monday, October 22, 2018, Mark Albertson kicked off the first lecture in his new series. 
 
 Join us for a four-week series on The Civil War and learn about the tension between those who enlist the agrarian agenda and those that desire to industrialize.
 
